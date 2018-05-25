@@ -1,0 +1,28 @@
+<html>
+<head><title>Presentations</title>
+<style type="text/css">
+*{font-family: Verdana;}
+</style>
+</head>
+<body bgcolor=black text=#EAEAEA link=yellow vlink=orange>
+I enjoy talking and writing about problem solving, and have helped several friends bootstrap support programs in their startups.  I've also run user groups and organized dozens of tech events from workshops to unconferences, and frequently volunteer in an organizational role at conferences like BarCamp and Open Source Bridge.
+<p>
+I've presented a few times in front of an audience lately about topics relevant to the kind of work I enjoy doing.  Most of these appearances are catalogued on <a href=http://lanyrd.com/profile/gently-7036/>Lanyrd.com</a>, and the notes and slide decks are linked below.
+<p>
+<h4>Growing Your Team - A Garden Philosophy (<a href=garden.html>presentation notes</a>), delivered at <a href=http://supconf.supportdriven.com>SupConf 2016 (SF)</a></h4>
+<h4>Working Beyond Support - Tactics for Increasing Effectiveness Across the Company (<a href=beyond.html>presentation notes</a>), delivered at <a href=http://elevatesummit.co>Elevate Summit 2016 (Austin)</a></h4>
+<h4><a href=http://opensourcebridge.org/sessions/777>The Art of Customer Engagement and Retention: Premium Support for Freemium Software</a> delivered at <a href=http://opensourcebridge.org>Open Source Bridge</a> 2012</h4>
+<h4><a href=http://opensourcebridge.org/sessions/1004>Debugging without borders</a> delivered at <a href=http://opensourcebridge.org>Open Source Bridge</a> 2013</h4>
+<h4>I presented an hour-long webinar to Jama's customers about our support processes and particularly focused on our bug handling process, and how to help us work your cases faster and more efficiently. <a href=http://success.jamasoftware.com/video/#support>this should be a good link to it</a>, in case you want to check out my Radio Voice...</h4>
+<h4>So you wanna be a booth babe...(<a href=boothbabe.key>slides</a> and <a href=boothbabe_notes.html>presentation notes</a>) delivered at New Relic's engineering all-hands meeting, 2012</h4>
+<h4>
+
+I've written some and advised on many of our public-facing documentation articles.  Here's the crunchiest one I wrote: <a href=https://docs.newrelic.com/docs/apm/reports/service-level-agreements/api-examples-sla-reports>API examples for SLA reports</a>.
+<p>
+I  occasionally <a href=http://blog.newrelic.com/author/chris-mccraw/>wrote for New Relic's company blog on technical or social themes.</a>
+<p>
+I sometimes write up tech notes for internal consumption.  <a href=statuspage.html>Here's an example I wrote about effective use of status pages for your service.</a>
+<p>
+I wrote a bit for <a href=http://jamasoftware.com/blog>the Jama company blog</a> about social and technical things.  There's not an easy way to link to all of my articles but you can search for my name.
+</body>
+</html>

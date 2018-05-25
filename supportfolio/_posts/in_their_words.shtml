@@ -1,0 +1,35 @@
+<html>
+<head><title>Customer Feedback</title>
+<style type="text/css">
+*{font-family: Verdana;}
+</style>
+</head>
+<body bgcolor=black text=#EAEAEA link=yellow vlink=orange>
+<h3>Customers say the darnedest things in response to my advice.  Fortunately, they're usually pretty complimentary!</h3>
+
+Most of the feedback that people bother to leave is just a few words...
+<br>
+<center><a href=wordcloud_large.jpg><img src=wordcloud.jpg></a></center>
+<br>
+
+Of the people who bothered to leave complete sentences behind, these are some of my favorites:
+<ul>
+<li>...quick, friendly, and informative. I can't think of a better response.
+<li>Chris answered my question quickly and succinctly. I moved towards a solution immediately after hearing his response. Thanks!
+<li>This was a great walk-thru! You surprise and delight. Thanks again!
+<li>I appreciate the sincerity and helpfulness presented even though the problem is challenging.
+<li>I'm always VERY impressed by the timeliness and usefulness of support responses by Chris.
+<li>BEST CUSTOMER SERVICE. EVER. END OF FUCKING STORY. B-E-S-T.
+<li>The response was exceptional in timeliness, attitude and content, as per usual!
+<li>Chris gave great *full* answers and an actionable path forward. He reflected our concerns, addressed them technically, explicitly noted constraints and work arounds. Good stuff.
+<li>Love the quick response and comprehensive help. I stay with these kinds of services because they help my business succeed.
+<li>I appreciate the speed and quality of the support I received. Thanks, Chris!
+<li>outstanding, and i hate replying to these things but you guys rock.
+<li>Chris was a great resource. He provided me with exactly what I needed in a timely manner. As my first experience with New Relic tech support, count me impressed.
+<li>Chris provided great customer support. Went above and beyond, installed a new operating system to fix the problem I was having. Did this all within 24 hours of my initial question.
+<li>Response was fast. Chris was really knowledgeable and helpful. And when I had a follow-up question, he was right on top of it as well. I was impressed with the service speed and quality. Thanks for taking great care of us on this issue.
+<li>Not only did the techs fix the problem quickly, they gave me a headsup about the TTL settings that while I'm aware of did not think to change. They went above and beyond.. A+!
+<li>Very detailed help and professional. Hope I always get someone as helpful as this.
+<li>Incredibly satisfied. Chris provided a lot more help than I was expecting.
+</ul>
+</body></html>
